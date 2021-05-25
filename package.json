@@ -1,6 +1,6 @@
 {
   "name": "@kontentino/feather-icons",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Simply beautiful open source icons",
   "main": "dist/feather.js",
   "unpkg": "dist/feather.min.js",
